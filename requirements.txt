@@ -1,0 +1,4 @@
+groq==x.x.x
+pydantic==1.8.2
+pydantic-core==2.27.2
+python-dotenv==0.19.0
